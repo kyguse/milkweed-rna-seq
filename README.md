@@ -26,12 +26,13 @@ FASTQ → Trimmomatic → Trinity → Bowtie2 → ncbi-blast → Salmon → Tran
 
 | Tool        | Version   | Description                           |
 |-------------|-----------|---------------------------------------|
-| Trinity     | v2.15.1   | De novo transcriptome assembly        |
-| Salmon      | v1.10.1   | Transcript quantification             |
-| Bowtie2     | v2.5.1    | Read alignment (optional)             |
-| DESeq2      | R package | Differential expression analysis      |
-| TopGO       | R package | Gene Ontology enrichment              |
-| Trinotate   | (optional)| Functional annotation                 |
+| Trinity      | v2.15.1   | De novo transcriptome assembly        |
+| Salmon       | v1.10.1   | Transcript quantification             |
+| Bowtie2      | v2.5.1    | Read alignment (optional)             |
+| DESeq2       | R package | Differential expression analysis      |
+| TopGO        | R package | Gene Ontology enrichment              |
+| Transdecoder | v5.5.0    | Identify candidate coding regions     |
+| Trinotate    | v3.2.2    | Functional annotation                 |
 
 ---
 
