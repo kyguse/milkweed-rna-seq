@@ -48,15 +48,4 @@ milkweed-rna-seq/
 └── README.md # This file
 
 
----
-
-## 📜 Key Scripts
-
-- `scripts/trinity_assembly.sh` – SLURM job for Trinity  
-- `scripts/salmon_quant.sh` – Quantification with Salmon  
-- `scripts/deseq2_analysis.R` – DE analysis with DESeq2  
-- `scripts/topgo_enrichment.R` – GO enrichment on DEGs
-
----
-
 
