@@ -2,7 +2,7 @@
 
 # ==========================================
 # RNA-Seq Analysis Pipeline for Milkweed Project
-# Author: Kylene Guse
+# Author: Dr. Kylene Guse
 # Description: This script summarizes the RNA-seq pipeline used for leaf, root, and hybrid samples
 # ==========================================
 
