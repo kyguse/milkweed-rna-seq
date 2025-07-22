@@ -38,7 +38,7 @@ FASTQ → Trimmomatic → Trinity → Bowtie2 → ncbi-blast → Salmon → Tran
 ## 📂 Directory Structure
 
 milkweed-rna-seq/
-├── data/ # Raw and trimmed FASTQ files
+├── data/ # sample metadata and future path raw fastq files
 ├── scripts/ # Bash and R scripts
 ├── slurm_jobs/ # SLURM job submission files
 ├── trinity_out/ # Trinity assemblies
