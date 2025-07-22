@@ -1,0 +1,17 @@
+speciosa	mdg_001_R_S25
+speciosa	mdg_002_R_S26
+speciosa	mdg_003_R_S27
+speciosa	mdg_004_R_S28
+speciosa	mdg_006_R_S30
+speciosa	mdg_007_R_S31
+speciosa	mdg_008_R_S32
+syriaca		mdg_009_R_S33
+syriaca		mdg_010_R_S34
+syriaca		mdg_011_R_S35
+syriaca		mdg_012_R_S36
+syriaca		mdg_013_R_S37
+syriaca		mdg_015_R_S39
+syriaca		mdg_016_R_S40
+
+
+
