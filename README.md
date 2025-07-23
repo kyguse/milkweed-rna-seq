@@ -12,6 +12,10 @@ This project analyzes root and leaf transcriptomes from *Asclepias speciosa*, *A
 > 🔬 Tools: Trinity, Bowtie2, Salmon, Transdecoder, Trinity, DESeq2, TopGO  
 > 📁 Data: Paired-end RNA-seq (Illumina)
 
+## 🚧 Project Status: In Progress
+This analysis is currently ongoing. Documentation, results, and scripts are being actively developed and refined.
+
+
 ---
 
 ## 🛠 Pipeline Overview
